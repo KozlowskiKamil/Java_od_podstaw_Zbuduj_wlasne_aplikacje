@@ -6,8 +6,6 @@ public class Main3 {
         boolean haveUmbrela = false;
         int temperature = 30;
 
-        if ()
-
 
     }
 }
