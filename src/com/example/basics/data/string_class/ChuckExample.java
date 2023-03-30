@@ -1,6 +1,4 @@
-package com.example;
-
-import Challenge.whileChallenge.While;
+package com.example.basics.data.string_class;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
