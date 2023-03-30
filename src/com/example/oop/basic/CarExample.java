@@ -48,5 +48,4 @@ public class CarExample {
         dodge.printInfo();
     }
 
-
 }
