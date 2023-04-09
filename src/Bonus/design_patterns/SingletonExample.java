@@ -1,4 +1,4 @@
-package Bonus.design_patterns.singleton;
+package Bonus.design_patterns;
 
 class SingletonPattern {
     private static SingletonPattern instance = new SingletonPattern();
