@@ -54,8 +54,7 @@ public class Main {
 
         Iterator<Car> iterator1 = cars.iterator();
         while (iterator1.hasNext()) {
-            Car car = iterator1.next();
-            System.out.println("car = " + car);
+            System.out.println("car = " + iterator1.next());
         }
 
     }
